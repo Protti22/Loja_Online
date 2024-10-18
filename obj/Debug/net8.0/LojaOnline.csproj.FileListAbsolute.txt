@@ -12,3 +12,4 @@ C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_
 C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\ProjetoAp2\LojaOnline\obj\Debug\net8.0\LojaOnline.pdb
 C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\ProjetoAp2\LojaOnline\obj\Debug\net8.0\LojaOnline.genruntimeconfig.cache
 C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\ProjetoAp2\LojaOnline\obj\Debug\net8.0\ref\LojaOnline.dll
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\ProjetoAp2\LojaOnline\obj\Debug\net8.0\LojaOnline.sourcelink.json

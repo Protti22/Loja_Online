@@ -9,11 +9,11 @@ class Program
 
         ProdutoFisico produto1 = new ProdutoFisico
         {
-            Nome = "Notebook",
-            Codigo = "NB123",
-            Preco = 2500m,
-            Peso = 2.5,
-            Dimensao = new Dimensoes { Altura = 5, Largura = 35, Profundidade = 25 },
+            Nome = "PC",
+            Codigo = "NP2346",
+            Preco = 12000m,
+            Peso = 4,
+            Dimensao = new Dimensoes { Altura = 30, Largura = 30, Profundidade = 60 },
             Categoria = "Eletrônicos"
         };
 
@@ -21,10 +21,10 @@ class Program
 
         Cliente cliente = new Cliente
         {
-            Nome = "João Silva",
-            NumeroIdentificacao = "123456789",
-            Endereco = "Rua das Flores, 123",
-            Contato = "joao@email.com"
+            Nome = "Jose Junior",
+            NumeroIdentificacao = "987654321",
+            Endereco = "Rua rio das contas, 661",
+            Contato = "juniorjose@gmail.com"
         };
 
         loja.CadastrarCliente(cliente);
